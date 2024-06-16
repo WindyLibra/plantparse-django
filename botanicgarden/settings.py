@@ -29,7 +29,9 @@ SECRET_KEY = 'django-insecure-6sbzh^6rn0(s1zq)-2nl5r)4hiijlyb=r5hy+k3*rt^o@9163q
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'hammerhead-app-uoa5o.ondigitalocean.app',
+]
 
 
 # Application definition
