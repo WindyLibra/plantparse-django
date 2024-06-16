@@ -1,1 +1,2 @@
-web: gunicorn myproject.wsgi:application --log-file -
+web: gunicorn botanicgarden.wsgi:application --log-file -
+
