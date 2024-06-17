@@ -150,6 +150,7 @@ CORS_ALLOWED_METHODS = ['GET', 'POST', 'PUT', 'PATCH', 'DELETE']
 CORS_ALLOWED_HEADERS = [
     'Content-Type',
     'Authorization',
+    'Access-Control-Allow-Origin',
 ]
 
 CORS_ORIGIN_ALLOW_ALL = True
