@@ -151,6 +151,10 @@ CORS_ALLOWED_HEADERS = [
     'Content-Type',
     'Authorization',
     'Access-Control-Allow-Origin',
+    'Access-Control-Allow-Methods',
+    'Access-Control-Allow-Headers',
+    'Access-Control-Max-Age',
+    'Access-Control-Allow-Credentials',
 ]
 
 CORS_ORIGIN_ALLOW_ALL = True
