@@ -95,8 +95,8 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'botanic_garden_plants',
         'USER': 'doadmin',
-        'PASSWORD': 'AVNS_NGaX24iq0uXYwYlf-EQ',
-        'HOST': 'dbaas-db-2773019-do-user-16585818-0.c.db.ondigitalocean.com',  # Or your MySQL server's hostname/IP if remote
+        'PASSWORD': '',
+        'HOST': 'dbaas-db-2773019-do-user-16585818-0.c.db.ondigitalocean.com',
         'PORT': '25060',
         'OPTIONS':{
             'ssl': {
